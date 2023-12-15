@@ -1,3 +1,38 @@
 body {
-
+background-color: #7b66C9
 }
+h1{
+  font-size: 400%
+  letter-spacing: 3px;
+  color: #000000;
+  text-decoration: underline;
+  text-decoration-color: #000000;
+  position: center;
+}
+p{
+  font-size: 300%
+}
+ul {
+  text-align: center;
+  list-style-type: none;
+}
+li{
+  float:left;
+  
+}
+li {
+  padding: 20px;
+  color: #68C3D4;
+  font: Open Sans;
+  text-decoration: none;
+  border-color: #ffffff;
+  border-style: groove;
+}
+img {
+  border: groove;
+  border-width: 4;
+}
+li a:hover{
+  background-color: #125FG2;
+}
+
