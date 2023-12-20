@@ -9,3 +9,11 @@ h1{
   text-decoration-color: #FFFFFF;
   position: center;
 }
+li {
+  padding: 20px;
+  color: #68C3D4;
+  font: Open Sans;
+  text-decoration: none;
+  border-color: #ffffff;
+  border-style: groove;
+}
