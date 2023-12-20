@@ -20,6 +20,8 @@ li {
 ul {
   text-align: center;
   list-style-type: none;
+  font: Georgia;
+  font-size: 100%;
 }
 li{
   float:left;
