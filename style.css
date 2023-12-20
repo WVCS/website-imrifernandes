@@ -1,5 +1,5 @@
-body {
-background-color: #7b66C9
+body{
+  background-color: #7b66C9
 }
 h1{
   font-size: 400%
@@ -23,11 +23,11 @@ li{
 li {
   padding: 20px;
   color: #68C3D4;
-  font: Georgia;
-  font-size: 100%;
+  background-color: #CBC3E3;
+  font-family: "Papyrus";
   text-decoration: none;
   border-color: #ffffff;
-  border-style: groove;
+  border-style: solid;
 }
 img {
   border: groove;
@@ -36,4 +36,7 @@ img {
 li a:hover{
   background-color: #125FG2;
 }
-
+li {
+  border: 2px;
+  border-radius: 5px;
+}
