@@ -17,3 +17,10 @@ li {
   border-color: #ffffff;
   border-style: groove;
 }
+ul {
+  text-align: center;
+  list-style-type: none;
+}
+li{
+  float:left;
+}
