@@ -12,11 +12,11 @@ h1{
 li {
   padding: 20px;
   color: #68C3D4;
-  font: Georgia;
+  font-family: "Papyrus";
   font-size: 100%;
   text-decoration: none;
   border-color: #ffffff;
-  border-style: groove;
+  border-style: solid;
 }
 ul {
   text-align: center;
@@ -24,4 +24,8 @@ ul {
 }
 li{
   float:left;
+}
+li {
+  border: 2px;
+  border-radius: 5px;
 }
