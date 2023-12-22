@@ -13,11 +13,8 @@ ul {
   text-align: center;
   list-style-type: none;
 }
-li{
-  float:left;
-}
-
 li {
+  float:left;
   padding: 20px;
   color: #68C3D4;
   background-color: #CBC3E3;
